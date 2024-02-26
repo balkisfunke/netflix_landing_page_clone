@@ -9,14 +9,14 @@ body {
 }
 
 .first {
-  background-image: url('/netf\(1\).png');
+  background-image: url('../images/netf.png');
   background-size: cover;
   background: #000;
   padding: 10px;
 }
 
 .netflix {
-  background-image: url(/netf\(1\).png);
+  background-image: url('../images/netf.png');
   height: 100%;
 }
 .minor{
